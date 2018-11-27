@@ -1,0 +1,10 @@
+body{ background-color:#90D2F5; text-align:center;}
+h1{color:#FFFFFF;font-size:70px;}
+a{text-decoration:none;color:blue;}
+div#Uberschrift{position:absolute;top:0px;left:0px;width:1280px;background-color:#5F5F5F;color:#FFFFFF}
+div#Links{background-color:#00FF40;position:absolute;top:168px;left:0;width:250px;border-radius:10px;box-shadow:3px 3px 6px #04B431;}
+div#validator{position:absolute;top:2px;left:2px;border-radius: 18px;}
+div#Home{position:absolute;top:70px;left:1000px;}
+div#Einleitungstext{position:absolute;top:200px;left:300px;text-align:left;}
+div#bild1{position:absolute;top:600px;left:1000px;}
+div#bild2{position:absolute;top:230px;left:1100px;}
