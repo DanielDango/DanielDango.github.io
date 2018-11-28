@@ -1,0 +1,20 @@
+body					{background-color:#90D2F5;text-align:center;}
+h1					{color:#FFFFFF;font-size:70px;}
+a					{text-decoration:none;color:blue;}
+div#Uberschrift		{position:absolute;top:0px;left:0px;width:1280px;background-color:#5F5F5F;color:#FFFFFF}
+div#Links			{background-color:#00FF40;position:absolute;top:168px;left:0px;width:250px;border-radius:10px;box-shadow:3px 3px 6px #04B431;bottom:-1750px}
+div#validator		{position:absolute;top:2px;left:2px;border-radius: 18px;}
+div#Home				{position:absolute;top:70px;left:1000px;}
+div#Bild				{position:absolute;top:176px;left:250px;}
+div#NolanBushnell	{position:absolute;top:160px;left:450px;text-align:left;}
+div#Bild2			{position:absolute;top:600px;right:10px;}
+div#JohnCarmack		{position:absolute;top:520px;left:450px;right:220px;text-align:right;}
+div#Bild3			{position:absolute;top:900px;left:250px;}
+div#ShigeruMiyamoto	{position:absolute;top:800px;left:450px;text-align:left;}
+div#SatoshiTajiri	{position:absolute;top:1200px;left:250px;text-align:right;}
+div#Bild4			{position:absolute;top:1620px;left:250px;}
+div#SidMeier			{position:absolute;top:1500px;left:480px;text-align:left;}
+div#Bild5			{position:absolute;top:1900px;right:10px;}
+div#GabeNewell		{position:absolute;top:1830px;left:250px;right:220px;text-align:right;}
+div#Bild6 			{position:absolute;top:2350px;left:250px;}
+div#MarkusPresson	{position:absolute;top:2200px;left:452px;text-align:left;}

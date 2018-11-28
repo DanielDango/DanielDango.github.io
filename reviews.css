@@ -1,0 +1,14 @@
+body{ background-color:#90D2F5; text-align:center;}
+h1{color:#FFFFFF;font-size:70px;}
+a{text-decoration:none;color:blue;}
+a:hover{color:black;}
+div#Uberschrift{position:absolute;top:0px;left:0px;width:1280px;background-color:#5F5F5F;color:#FFFFFF}
+div#Links{background-color:#00FF40;position:absolute;top:168px;left:0;width:250px;bottom:-2050px;border-radius:10px;box-shadow:3px 3px 6px #04B431;}
+div#validator{position:absolute;top:2px;left:2px;border-radius: 18px;}
+div#Home{position:absolute;top:70px;left:1000px;}
+div#csgo{position:absolute;top:300px;left:300px;text-align:left;}
+div#lol{position:absolute;top:1500px;left:300px;text-align:left;}
+div#gtav{position:absolute;top:2100px;left:300px;text-align:left;}
+div#bild1{position:absolute;top:720px;left:700px;}
+div#bild2{position:absolute;top:1250px;left:300px;}
+div#bild3{position:absolute;top:2450px;left:900px;}
